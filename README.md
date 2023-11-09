@@ -1,4 +1,4 @@
 # BearLocalization
 
-##Локализация для сервера BearLand.
-###mc.bear-land.net 
+## Локализация для сервера BearLand.
+### mc.bear-land.net 
