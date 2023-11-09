@@ -3,9 +3,9 @@
     "ru": "§cОшибка, используйте /find <ник>"
   },
   "format": {
-    "ru": "§c§lBearLand §8| §fИгрок %s §fнаходится на сервере - §d%s"
+    "ru": "§c§lBearLand §8| §fИгрок %player% §fнаходится на сервере - §d%server%"
   },
   "offline": {
-    "ru": "§c§lBearLand §8| §fИгрок %s §fпоследний раз заходил на сервер §c%s назад §7[%s]"
+    "ru": "§c§lBearLand §8| §fИгрок %player% §fпоследний раз заходил на сервер §c%last_join% назад §7[%last_server%]"
   }
 }

@@ -3,12 +3,12 @@
     "ru": "§cОшибка, используйте /sc <сообщение>"
   },
   "format": {
-    "ru": "§aЧат персонала §8| %s §8[%s] §8§l» §f%s"
+    "ru": "§aЧат персонала §8| %player% §8[%server%] §8§l» §f%message%"
   },
   "offline": {
     "ru": "§c§lBearLand §8| §fПерсонала в сети нет."
   },
   "staff_online": {
-    "ru": "§cBearLand §8| §fСписок онлайн персонала (§c%s§f): %s"
+    "ru": "§cBearLand §8| §fСписок онлайн персонала (§c%staff_count%§f): %staff_list%"
   }
 }
