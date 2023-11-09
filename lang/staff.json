@@ -8,7 +8,7 @@
   "offline": {
     "ru": "§c§lBearLand §8| §fПерсонала в сети нет."
   },
-  "staff_online": {
+  "online": {
     "ru": "§cBearLand §8| §fСписок онлайн персонала (§c%staff_count%§f): %staff_list%"
   }
 }
